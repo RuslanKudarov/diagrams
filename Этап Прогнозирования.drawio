@@ -1,122 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T12:07:13.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jRsF3w0gxzfO5Iu6T6T-" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T12:16:54.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="F5HQbRkxy7Vr0IRWC0tY" version="22.0.8" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
     <mxGraphModel dx="1420" dy="744" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2a0f93b5c73ef8e7-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#182E3E;align=center;strokeColor=#BAC8D3;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="413.39" y="118.11" width="7.87" height="461.89" as="geometry" />
+          <mxGeometry x="420" y="118.11" width="7.87" height="521.89" as="geometry" />
         </mxCell>
         <mxCell id="FrcaDq-RCSq2BCNXma5n-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="530" width="520" height="30" as="geometry" />
+          <mxGeometry x="400" y="580" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-5" value="Часть 10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="230" y="537.5" width="86" height="15" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-5" value="10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="410" y="580" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-6" value="Мониторинг модели машинного обучения в эксплуатации" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="320" y="530" width="416" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-6" value="Мониторинг модели машинного обучения в эксплуатации" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="580" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="130" width="520" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-55" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=default;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-14" value="Часть 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="130" y="137.5" width="86" height="15" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-56" value="Вычисленный прогноз" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-15" value="Инженерия данных" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="220" y="130" width="416" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-62" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="170" width="520" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-63" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-17" value="Часть 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="140" y="177.5" width="86" height="15" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-64" value="Инженерия данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-18" value="Инженерия данных" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="170" width="416" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-68" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=default;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-19" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="210" width="520" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-69" value="Задача прогнозирования" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-20" value="Часть 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="150" y="217.5" width="86" height="15" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-70" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="180" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-21" value="Инженерия данных" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="416" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-71" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-22" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="250" width="520" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-72" value="Инженерия данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-23" value="Часть 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="160" y="257.5" width="86" height="15" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-73" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-24" value="Инженерия данных" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="250" y="250" width="416" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-74" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="290" width="520" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-75" value="Инженерия данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-26" value="Часть 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="170" y="297.5" width="86" height="15" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-76" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-27" value="Инженерия данных" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="260" y="290" width="416" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-77" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="330" width="520" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-78" value="Инженерия данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-29" value="Часть 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="180" y="337.5" width="86" height="15" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-79" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-30" value="Инженерия данных" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="270" y="330" width="416" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-80" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-31" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="370" width="520" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-81" value="Инженерия данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-32" value="Часть 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="190" y="377.5" width="86" height="15" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-83" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-33" value="Инженерия данных" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="280" y="370" width="416" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-84" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="410" y="380" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="410" width="520" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-85" value="Инженерия данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-35" value="Часть 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="200" y="417.5" width="86" height="15" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-86" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-36" value="Инженерия данных" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="290" y="410" width="416" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-87" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-37" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="450" width="520" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-88" value="Инженерия данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-38" value="Часть 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="210" y="457.5" width="86" height="15" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-89" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-39" value="Инженерия данных" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="300" y="450" width="416" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-90" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="410" y="480" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-40" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="490" width="520" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-91" value="Инженерия данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="480" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-41" value="Часть 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="220" y="497.5" width="86" height="15" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-92" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="530" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-42" value="Инженерия данных" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="490" width="416" height="30" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-93" value="9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="130" y="530" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-45" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=default;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="80" width="300" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-46" value="Задача этапа Прогнозирования" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="260" y="80" width="320" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-53" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=default;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="570" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-54" value="Решение задачи" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="310" y="570" width="220" height="40" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-94" value="Инженерия данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="530" width="246" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
