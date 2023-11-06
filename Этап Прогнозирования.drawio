@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T11:58:32.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zWN4wXjB2zYOR9MyuuhR" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T12:07:13.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jRsF3w0gxzfO5Iu6T6T-" version="22.0.8" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
     <mxGraphModel dx="1420" dy="744" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2a0f93b5c73ef8e7-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#182E3E;align=center;strokeColor=#BAC8D3;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="413.385" y="118.11" width="7.874" height="990.1555" as="geometry" />
+          <mxGeometry x="413.39" y="118.11" width="7.87" height="461.89" as="geometry" />
         </mxCell>
         <mxCell id="FrcaDq-RCSq2BCNXma5n-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="530" width="520" height="30" as="geometry" />
@@ -105,6 +105,18 @@
         </mxCell>
         <mxCell id="FrcaDq-RCSq2BCNXma5n-42" value="Инженерия данных" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="310" y="490" width="416" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-45" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=default;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-46" value="Задача этапа Прогнозирования" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-53" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=default;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="570" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-54" value="Решение задачи" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="310" y="570" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
