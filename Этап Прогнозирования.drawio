@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-11-06T11:35:09.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="x_SGz_4aOdbzHttVq1FX" version="22.0.8" type="github">
+  <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
+    <mxGraphModel dx="1420" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2a0f93b5c73ef8e7-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#182E3E;align=center;strokeColor=#BAC8D3;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="413.385" y="70" width="7.874" height="990.1555" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#B1DDF0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="130" width="433.07" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-3" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#182E3E;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="163" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2a0f93b5c73ef8e7-18" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;fontSize=9;fontColor=#182E3E;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="134" width="160" height="77" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
