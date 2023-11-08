@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T10:27:43.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HKCcGCIvt5d9NvK3Lftk" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T10:29:45.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dsqLgnRmUaxonf3nrD5r" version="22.0.8" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1420" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -95,6 +95,16 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="295" y="270" as="sourcePoint" />
             <mxPoint x="374" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0L1pSdcY96lbb22dAQDU-39" value="Ошибка&lt;br&gt;1-го рода" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="0L1pSdcY96lbb22dAQDU-36">
+          <mxGeometry x="0.038" relative="1" as="geometry">
+            <mxPoint x="-6" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0L1pSdcY96lbb22dAQDU-40" value="Ошибка&lt;br&gt;2-го рода" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="0L1pSdcY96lbb22dAQDU-36">
+          <mxGeometry x="0.038" relative="1" as="geometry">
+            <mxPoint x="-6" y="-140" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
