@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T13:55:52.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="H9sHaniMPERFVZySNT9C" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T14:00:10.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mXmG1yZLGHo1po5ZXbW1" version="22.0.8" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1420" dy="744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
         <mxCell id="bRI3MN9ANpLZSxHK5Ll--7" value="100%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="500" y="402" width="40" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="bRI3MN9ANpLZSxHK5Ll--8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.84;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="bRI3MN9ANpLZSxHK5Ll--7" target="bRI3MN9ANpLZSxHK5Ll--1">
+        <mxCell id="bRI3MN9ANpLZSxHK5Ll--8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#808080;" edge="1" parent="1" source="bRI3MN9ANpLZSxHK5Ll--7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="550" as="sourcePoint" />
-            <mxPoint x="530" y="500" as="targetPoint" />
+            <mxPoint x="520" y="143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bRI3MN9ANpLZSxHK5Ll--9" value="80%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
@@ -31,13 +31,13 @@
         <mxCell id="bRI3MN9ANpLZSxHK5Ll--16" value="Стоимость" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Calibri;fontSize=18;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="252" width="40" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="bRI3MN9ANpLZSxHK5Ll--19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.84;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="bRI3MN9ANpLZSxHK5Ll--19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#808080;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="402" as="sourcePoint" />
-            <mxPoint x="268.8800000000001" y="120" as="targetPoint" />
+            <mxPoint x="269" y="147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bRI3MN9ANpLZSxHK5Ll--26" value="Минимальная точность" style="edgeLabel;html=1;align=left;verticalAlign=top;resizable=0;points=[];horizontal=0;fontFamily=Calibri;fontSize=14;" vertex="1" connectable="0" parent="bRI3MN9ANpLZSxHK5Ll--19">
+        <mxCell id="bRI3MN9ANpLZSxHK5Ll--26" value="Минимальная точность" style="edgeLabel;html=1;align=left;verticalAlign=top;resizable=0;points=[];horizontal=0;fontFamily=Calibri;fontSize=14;fontColor=#808080;" vertex="1" connectable="0" parent="bRI3MN9ANpLZSxHK5Ll--19">
           <mxGeometry x="-0.1985" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
