@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T09:59:29.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="eEeNjlUZ1VjYxLZFdCXr" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T10:04:43.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kfSnXUuzbhV6gbtvcdIl" version="22.1.4" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="758" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="FrcaDq-RCSq2BCNXma5n-71" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" parent="1" vertex="1">
           <mxGeometry x="400" y="180" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-72" value="Разведочный анализ данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-72" value="Разведывательный анализ данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="450" y="180" width="246" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FrcaDq-RCSq2BCNXma5n-73" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
