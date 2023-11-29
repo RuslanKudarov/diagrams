@@ -1,112 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T12:27:23.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rTNtw2rUOLu8-B4yYGuO" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T09:59:29.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="eEeNjlUZ1VjYxLZFdCXr" version="22.1.4" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="1420" dy="744" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2a0f93b5c73ef8e7-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#182E3E;align=center;strokeColor=#BAC8D3;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="420" y="118.11" width="7.87" height="521.89" as="geometry" />
+          <mxGeometry x="420" y="118.11" width="7.87" height="481.89" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="580" width="340" height="40" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-55" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=default;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="580" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-5" value="10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="410" y="580" width="50" height="35" as="geometry" />
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-56" value="Вычисленный прогноз" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" parent="1" vertex="1">
+          <mxGeometry x="280" y="580" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-6" value="Мониторинг модели машинного обучения в эксплуатации" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="460" y="580" width="246" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-55" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=default;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="630" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-56" value="Вычисленный прогноз" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
-          <mxGeometry x="280" y="630" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-62" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-62" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="130" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-63" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-63" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" parent="1" vertex="1">
           <mxGeometry x="130" y="130" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-64" value="Инженерия данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-64" value="Инженерия данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="180" y="130" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-68" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=default;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-68" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=default;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="80" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-69" value="Задача прогнозирования" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-69" value="Задача прогнозирования" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" parent="1" vertex="1">
           <mxGeometry x="280" y="80" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-70" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-70" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="390" y="180" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-71" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-71" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" parent="1" vertex="1">
           <mxGeometry x="400" y="180" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-72" value="Разведочный анализ данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-72" value="Разведочный анализ данных" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="450" y="180" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-73" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-73" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="230" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-74" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-74" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" parent="1" vertex="1">
           <mxGeometry x="130" y="230" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-75" value="Технико-экономическое обоснование" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-75" value="Технико-экономическое обоснование" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="180" y="230" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-76" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-76" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-77" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-77" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" parent="1" vertex="1">
           <mxGeometry x="410" y="280" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-78" value="Подготовка данных для машинного обучения" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-78" value="Подготовка данных&lt;br&gt;для машинного обучения" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="460" y="280" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-79" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-79" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="330" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-80" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-80" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" parent="1" vertex="1">
           <mxGeometry x="130" y="330" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-81" value="Разработка модели машинного обучения" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-81" value="Разработка&lt;br&gt;модели машинного обучения" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="180" y="330" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-83" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-83" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="380" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-84" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-84" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" parent="1" vertex="1">
           <mxGeometry x="410" y="380" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-85" value="Валидация модели машинного обучения" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-85" value="Валидация&lt;br&gt;модели машинного обучения" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="460" y="380" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-86" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-86" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="430" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-87" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-87" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" parent="1" vertex="1">
           <mxGeometry x="130" y="430" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-88" value="Представление результатов исследования" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-88" value="Представление&lt;br&gt;результатов исследования" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="180" y="430" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-89" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-89" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="480" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-90" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-90" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" parent="1" vertex="1">
           <mxGeometry x="410" y="480" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-91" value="План развертывания модели машинного обучения" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-91" value="Развертывание&lt;br&gt;модели машинного обучения" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="460" y="480" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-92" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-92" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#A1C3F0;fontSize=13;fontColor=#182E3E;align=center;gradientDirection=east;verticalAlign=top;shadow=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="530" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-93" value="9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-93" value="9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontColor=#182E3E;labelBackgroundColor=none;fontFamily=Calibri;" parent="1" vertex="1">
           <mxGeometry x="130" y="530" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FrcaDq-RCSq2BCNXma5n-94" value="Ввод в эксплуатацию модели машинного обучения" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FrcaDq-RCSq2BCNXma5n-94" value="Сопровождение&lt;br&gt;модели машинного обучения" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Calibri;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="180" y="530" width="246" height="40" as="geometry" />
         </mxCell>
       </root>
